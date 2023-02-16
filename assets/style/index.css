@@ -1,0 +1,45 @@
+html{
+    margin: auto;
+    padding: auto;
+}
+
+body{
+    background-image: url(/assets/material/7c4a5a5ee7b7e5955007391b2ce55665.jpg);
+}
+.logo{
+    width: 135px;
+    height: 135px;
+    float: left;
+}
+.nombre{
+    color: azure;
+    display: flex;
+    justify-content: center;
+
+    
+   
+}
+img.foto{
+    width: 350px;
+    height: 350px;
+    display: block;
+    margin-left: 395px;
+    border-radius: 15px;
+}
+
+.botons{
+color: azure;
+text-decoration: none;
+font-weight: bold;
+font-family: 'Caveat', cursive;
+font-size: 18px;
+display: flex;
+padding: auto 30px;
+justify-content: center;
+margin-bottom: 10px;
+
+border-bottom: 10px;
+border-radius: 10px;
+width: 950px;
+
+}

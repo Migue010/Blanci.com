@@ -23,23 +23,29 @@ img.foto{
     width: 350px;
     height: 350px;
     display: block;
-    margin-left: 395px;
+    margin-left: 520px;
     border-radius: 15px;
 }
 
 .botons{
-color: azure;
-text-decoration: none;
 font-weight: bold;
 font-family: 'Caveat', cursive;
-font-size: 18px;
-display: flex;
+font-size: 16px;
+color: darkmagenta;
 padding: auto 30px;
-justify-content: center;
-margin-bottom: 10px;
-
-border-bottom: 10px;
-border-radius: 10px;
-width: 950px;
+margin-bottom: 20px;
+background-color: yellow;
+border-bottom: 15px;
+border-radius: 14px;
+width: 350px;
+height: auto;
+padding: 10px;
+margin: 12px;
+margin-left: 517px;
+margin-right: 90px;
+display: inline-block;
+text-align: center;
+border-style: double;
+text-decoration: none;
 
 }
